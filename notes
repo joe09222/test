@@ -15,3 +15,15 @@
 8- {git push RemoteName BranchName } ==> push commits to connected online repo 
 
 9- {git pull RemoteName} ==> get new changes from team members or online changes to your local repo
+
+10- { git config -l } ==> get list of all git configs 
+
+11- { git help config } ==> open official git documentation 
+
+12- { git config -l --show-origin} ==> get list of all git configs and where they came from 
+
+13- {git config --global  --unset property } ==> unset property in the git config 
+
+14- {git config --global --edit } ==> edit config in your text editor 
+
+15- {}
