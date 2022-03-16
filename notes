@@ -2,8 +2,8 @@
 
 2- {git status} ==> show changes in the directory and if they are added and comitted or not
 
-3- {git add file_name} ==> add file to include in what will be committed
+3- {git add file_name} ==> add file to include in what will be committed {staging area}
 
-4- {git restore --staged file_name} ==> remove file before it's commited
+4- {git restore --staged file_name} ==> remove file before it's commited {in the staging area}
 
-5- 
+5- {git commit -m "msg"} ==> comit files in the staging area to local repo
