@@ -12,4 +12,6 @@
 
 7- {git branch} ==> returns branch name 
 
-8- {git push RemoteName BranchName }
+8- {git push RemoteName BranchName } ==> push commits to connected online repo 
+
+9- {git pull RemoteName} ==> get new changes from team members or online changes to your local repo
