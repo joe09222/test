@@ -29,3 +29,5 @@
 15- { cat ~/.ssh/id_rsa.pub} ==> to get ssh key from our directory 
 
 16- { ssh -T git@github.com } ==> see wether you're connected with ssh to github or nah 
+
+17- {git init } ==> intialize git in a directory 
