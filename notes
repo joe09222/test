@@ -10,4 +10,6 @@
 
 6- {git remote -v} ==> return remote name
 
-7- {git push RemoteName BranchName }
+7- {git branch} ==> returns branch name 
+
+8- {git push RemoteName BranchName }
