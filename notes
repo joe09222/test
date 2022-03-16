@@ -31,3 +31,20 @@
 16- { ssh -T git@github.com } ==> see wether you're connected with ssh to github or nah 
 
 17- {git init } ==> intialize git in a directory 
+
+18- {git branch branch_name} ==> make new branch 
+
+19- {git checkout brnach_name} ==> go to a specific branch name 
+
+20- {git branch -d branch_name} ==> delete specific branch 
+
+21- {git chekout -b branch_name} ==> make new branch then access it 
+
+22- {git brnach -m new_name} ==> rename current branch 
+
+23- {git merge branch_name} ==> merge current branch with given branch 
+
+
+
+
+
