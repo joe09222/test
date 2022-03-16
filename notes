@@ -7,3 +7,7 @@
 4- {git restore --staged file_name} ==> remove file before it's commited {in the staging area}
 
 5- {git commit -m "msg"} ==> comit files in the staging area to local repo
+
+6- {git remote -v} ==> return remote name
+
+7- {git push RemoteName BranchName }
